@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './jarrod.png';
 import './App.css';
 
 function App() {
@@ -8,10 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          JARROD SUX
         </p>
         <a >
-          JARROD SUX
+          i am a one trick pony
         </a>
       </header>
     </div>
